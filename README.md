@@ -21,8 +21,6 @@ network traffic monitoring and log audits in an enterprise environment.
 
 ## 🚧 Featured project
 
-**[project-name]** — migrating a legacy PHP/jQuery page to React + TypeScript,
-with tests written first and a Docker setup. *(in progress)*
 
 ## 📫 Contact
 
